@@ -1,2 +1,2 @@
 # Sandbox
-Test
+A repository for practice, testing and personal references.
